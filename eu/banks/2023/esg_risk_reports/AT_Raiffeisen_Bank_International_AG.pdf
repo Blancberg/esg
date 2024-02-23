@@ -1,0 +1,3582 @@
+
+<!DOCTYPE HTML>
+<html lang="de" class="  ">
+<head>
+    <meta charset="UTF-8"/>
+    <title>Page not found</title>
+    
+    
+
+    
+
+
+    
+
+    <script>
+      window._rdl = {};
+      _rdl.settings = {
+        useJentis: false,
+        cmp: ""
+      };
+      _rdl.context = {
+        pageType: "content\u002Dpage",
+        portalName: "Head Office",
+        productName: "Head Office",
+        productId: '',
+        productCategory: '',
+        userId: '',
+        countryCode: "AT",
+        funnelType: "leadgen",
+        userAuth: '0',
+        cityId: '',
+        cityName: ''
+      };
+      let f = document.getElementsByTagName("script")[0];
+      let j = document.createElement("script");
+      j.async = true;
+      j.src = "https://d1mxyhmor38cww.cloudfront.net/latest/groupcms.js";
+      f.parentNode.insertBefore(j, f);
+    </script>
+
+
+    
+    
+        <script src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" data-document-language="true" type="text/javascript" charset="UTF-8" data-domain-script="6f85072d-0189-4dcb-b331-16aa8bafcf6f"></script>
+        <script type="text/javascript">
+          function OptanonWrapper() {
+            window.dispatchEvent(new Event('OneTrustGroupsUpdated'));
+          }
+        </script>
+    
+
+    
+
+    <script>
+      (function (sCDN, sCDNProject, sCDNWorkspace, sCDNVers) {
+        if (window.localStorage !== null
+          && typeof window.localStorage === 'object'
+          && typeof window.localStorage.getItem === 'function'
+          && window.sessionStorage !== null
+          && typeof window.sessionStorage === 'object'
+          && typeof window.sessionStorage.getItem === 'function') {
+            sCDNVers = window.sessionStorage.getItem('jts_preview_version')
+            || window.localStorage.getItem('jts_preview_version') || sCDNVers;
+        }
+        window.jentis = window.jentis || {};
+        window.jentis.config = window.jentis.config || {};
+        window.jentis.config.frontend = window.jentis.config.frontend || {};
+        window.jentis.config.frontend.cdnhost = sCDN + '/get/' + sCDNWorkspace + "/web/" + sCDNVers + "/";
+        window.jentis.config.frontend.vers = sCDNVers;
+        window.jentis.config.frontend.env = sCDNWorkspace;
+        window.jentis.config.frontend.project = sCDNProject;
+        window.jts = window._jts || [];
+        var f = document.getElementsByTagName('script')[0];
+        var j = document.createElement('script');
+        j.async = true;
+        j.src = window.jentis.config.frontend.cdnhost + 'qrmuds.js';
+        f.parentNode.insertBefore(j, f)
+      })('https://gfhgk1.rbinternational.com',
+        'rbi',
+        'live',
+        '_');
+    </script>
+
+    
+
+    
+
+
+    
+
+    
+
+
+
+    
+    
+    <meta name="template" content="content-page"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1"/>
+    
+
+    
+    
+
+    <script type="application/ld+json">
+        [{"@context":"https://schema.org","@type":"Organization","name":"Raiffeisen Bank International","url":"https://www.rbinternational.com"}]
+    </script>
+
+
+    
+
+    
+    <link rel="canonical" href="https://www.rbinternational.com/de/errors/page-not-found.html"/>
+
+    
+    
+        <link rel="alternate" hreflang="x-default" href="https://www.rbinternational.com/en/errors/page-not-found.html"/>
+    
+        <link rel="alternate" hreflang="de" href="https://www.rbinternational.com/de/errors/page-not-found.html"/>
+    
+        <link rel="alternate" hreflang="en" href="https://www.rbinternational.com/en/errors/page-not-found.html"/>
+    
+
+
+    
+
+    
+    
+    
+    
+    
+
+    
+    <meta property="og:title" content="Page not found"/>
+    
+    <meta property="og:url" content="https://www.rbinternational.com/de/errors/page-not-found.html"/>
+    
+    <meta property="og:locale" content="de"/>
+
+    
+    <meta property="twitter:title" content="Page not found"/>
+    
+    <meta property="twitter:url" content="https://www.rbinternational.com/de/errors/page-not-found.html"/>
+    
+
+
+    
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/rbi/clientlibs/clientlib-base.lc-40714fc877f258316f6980da78d2e2ed-lc.min.css" type="text/css">
+
+
+
+
+    <script>
+      window.RBI = {
+        config: {
+          wcmmode: {
+            edit: false,
+            design: false,
+            preview: false,
+            disabled: true
+          },
+          numberFormat: {
+            thousandsSeparator: " ",
+            radix: ",",
+          },
+          captcha: {
+            enabled: false,
+            sitekey: "729777c5-6b0a-4587-999d-ed2e3183a6fc",
+          }
+        }
+      }
+    </script>
+
+
+    
+    
+    
+
+    
+
+    
+    
+<script src="/etc.clientlibs/rbi/clientlibs/clientlib-critical.lc-f49d8f8359460d68c73fbb48f8633c7f-lc.min.js"></script>
+<script src="/etc.clientlibs/rbi/clientlibs/clientlib-dependencies.lc-557385f8c06f55a22e68f1e5bf484f9b-lc.min.js"></script>
+
+
+
+    
+    
+<link rel="stylesheet" href="/etc.clientlibs/rbi/clientlibs/clientlib-dependencies.lc-d41d8cd98f00b204e9800998ecf8427e-lc.min.css" type="text/css">
+<link rel="stylesheet" href="/etc.clientlibs/rbi/clientlibs/clientlib-site.lc-d9e9894164d3e7890ea52697015050e2-lc.min.css" type="text/css">
+
+
+
+    
+
+    
+
+    
+    <link rel="apple-touch-icon" sizes="180x180" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/apple-touch-icon.png"/>
+    <link rel="icon" type="image/png" sizes="32x32" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/favicon-32x32.png"/>
+    <link rel="icon" type="image/png" sizes="16x16" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/favicon-16x16.png"/>
+    <link rel="icon" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/favicon.svg" type="image/svg+xml"/>
+    <link rel="shortcut icon" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/favicon.ico"/>
+    <link rel="manifest" href="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/site.webmanifest"/>
+    <meta name="msapplication-TileColor" content="#2b2d33"/>
+    <meta name="msapplication-config" content="/etc.clientlibs/rbi/clientlibs/clientlib-site/resources/browserconfig.xml"/>
+    <meta name="theme-color" content="#ffffff"/>
+
+
+    
+    
+
+    
+
+
+</head>
+<body class="page basicpage" id="page-a2f472868d">
+
+
+
+    
+
+<div class="cmp-page__skiptomaincontent">
+    <a class="cmp-page__skiptomaincontent-link" href="#main">Zum Hauptinhalt wechseln</a>
+</div>
+
+    
+<link rel="stylesheet" href="/etc.clientlibs/core/wcm/components/page/v2/page/clientlibs/site/skiptomaincontent.lc-696ce9a06faa733b225ffb8c05f16db9-lc.min.css" type="text/css">
+
+
+
+
+    
+
+
+
+    
+<div class="cmp-container-container is-cmp-container">
+
+    
+    
+    
+    <div id="container-3218035669" class="cmp-container">
+        
+        <header class="experiencefragment">
+<div class="cmp-experiencefragment cmp-experiencefragment--header">
+
+<div data-vue-app="HeaderApp" v-pre>
+    <v-header class="cmp-header" v-slot="spHeader">
+        <div class="cmp-header__topbar grid-container fluid">
+            <div class="flex-container align-justify align-middle">
+                <div class="cmp-header__top-nav flex-child-auto align-self-bottom">
+                    <div class="cmp-topnavigation-container is-cmp-container show-for-large">
+
+    
+<nav class="cmp-navigation cmp-topnavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="cmp-navigation__group">
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-a43107f27b" data-rdl-data="{&#34;button_text&#34;:&#34;Home&#34;,&#34;field_id&#34;:&#34;button-a43107f27b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Home&#34;,&#34;field_id&#34;:&#34;button-a43107f27b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen.html">
+    
+    
+
+    <span class="cmp-button__text">Startseite</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-b632b62bda" data-rdl-data="{&#34;button_text&#34;:&#34;Investoren&#34;,&#34;field_id&#34;:&#34;button-b632b62bda&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Investoren&#34;,&#34;field_id&#34;:&#34;button-b632b62bda&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren.html">
+    
+    
+
+    <span class="cmp-button__text">Investoren</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-9c5c444448" data-rdl-data="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-9c5c444448&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-9c5c444448&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" href="/de/corporates.html">
+    
+    
+
+    <span class="cmp-button__text">Firmenkunden</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-95e34f3fb9" data-rdl-data="{&#34;button_text&#34;:&#34;Institutionen&#34;,&#34;field_id&#34;:&#34;button-95e34f3fb9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Institutionen&#34;,&#34;field_id&#34;:&#34;button-95e34f3fb9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" href="/de/institutionen.html">
+    
+    
+
+    <span class="cmp-button__text">Institutionen</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    </ul>
+</nav>
+
+    
+
+
+
+
+    
+
+</div>
+
+                    
+                    <div class="cmp-topnavigation-container is-cmp-container hide-for-large">
+
+    <v-toggle :close-on-click-away="true" :open="spHeader.isDropdownMenuOpened('topNav')" v-on:update="spHeader.dropdownMenuUpdated($event, 'topNav')" :classes="{ root: 'topnav-burger', label: 'topnav-burger__trigger', content: 'topnav-burger__content u-full-bleed' }">
+        <template v-slot:label="spToggle">
+            Home&nbsp;<span class="topnav-burger__trigger-icon icon-Arrow-Down-Expand"></span>
+        </template>
+        <template v-slot:default="spToggle">
+            <div class="u-full-bleed-inner" v-on:click="spHeader.onDropdownMenuClicked($event, 'topNav')">
+                <button class="topnav-burger__close icon-Close" v-on:click="spHeader.onDropdownMenuCloseClicked($event, 'topNav')" aria-label="Navigation schließen"></button>
+                
+<nav class="cmp-navigation cmp-topnavigation" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="cmp-navigation__group">
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-a43107f27b" data-rdl-data="{&#34;button_text&#34;:&#34;Home&#34;,&#34;field_id&#34;:&#34;button-a43107f27b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Home&#34;,&#34;field_id&#34;:&#34;button-a43107f27b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen.html">
+    
+    
+
+    <span class="cmp-button__text">Startseite</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-b632b62bda" data-rdl-data="{&#34;button_text&#34;:&#34;Investoren&#34;,&#34;field_id&#34;:&#34;button-b632b62bda&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Investoren&#34;,&#34;field_id&#34;:&#34;button-b632b62bda&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren.html">
+    
+    
+
+    <span class="cmp-button__text">Investoren</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-9c5c444448" data-rdl-data="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-9c5c444448&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-9c5c444448&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" href="/de/corporates.html">
+    
+    
+
+    <span class="cmp-button__text">Firmenkunden</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    
+        <li class="cmp-navigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-navigation__item-link">
+<a type="button" id="button-95e34f3fb9" data-rdl-data="{&#34;button_text&#34;:&#34;Institutionen&#34;,&#34;field_id&#34;:&#34;button-95e34f3fb9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Institutionen&#34;,&#34;field_id&#34;:&#34;button-95e34f3fb9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" href="/de/institutionen.html">
+    
+    
+
+    <span class="cmp-button__text">Institutionen</span>
+</a>
+
+    
+
+</span>
+
+        </li>
+    </ul>
+</nav>
+
+            </div>
+        </template>
+    </v-toggle>
+
+</div>
+
+                </div>
+                <div class="cmp-header__top-secondary-nav flex-child-shrink">
+                    <div class="cmp-buttonbar-container is-cmp-container cmp-buttonbar--align-right cmp-buttonbar--icon-only-mobile">
+
+<div class="cmp-buttonbar" data-placeholder-text="false">
+    <div class="parsys cmp-buttonbar__grid">
+
+
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-0d87e85303" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Kontakt&#34;,&#34;field_id&#34;:&#34;button-0d87e85303&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Kontakt&#34;,&#34;field_id&#34;:&#34;button-0d87e85303&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/kontakt.html">
+    
+    
+
+    <span class="cmp-button__text">Kontakt</span>
+</a>
+
+    
+
+</span>
+
+
+</div>
+
+</div>
+</div>
+
+                    <div class="cmp-languagenavigation-container is-cmp-container cmp-languagenavigation--small">
+<nav id="languagenavigation-ecc80853db" class="cmp-languagenavigation">
+    <v-toggle :close-on-escape="true" :close-on-click-away="true" :classes="{ root: 'vts-toggle--dropdown vts-toggle--right cmp-button--link', label: 'cmp-button' }">
+        <template v-slot:label="spToggle">
+            
+    <span class="icon icon-Globe" aria-hidden="true"></span>
+
+            
+                
+            
+                <span class="show-for-large">Deutsch</span><span class="hide-for-large">de</span>
+            
+        </template>
+        <template v-slot:default="spToggle">
+            
+    <ul class="cmp-languagenavigation__group">
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-en cmp-languagenavigation__item--level-0">
+        
+    
+    <a class="cmp-languagenavigation__item-link" aria-label="English" hreflang="en" lang="en" rel="alternate" href="/en/errors/page-not-found.html"><span class="show-for-large">English</span><span class="hide-for-large">en</span></a>
+
+        
+    </li>
+
+    
+        
+    <li class="cmp-languagenavigation__item cmp-languagenavigation__item--langcode-de cmp-languagenavigation__item--level-0 cmp-languagenavigation__item--active">
+        
+    
+    <a class="cmp-languagenavigation__item-link" aria-current="page" aria-label="Deutsch" hreflang="de" lang="de" rel="alternate" href="/de/errors/page-not-found.html"><span class="show-for-large">Deutsch</span><span class="hide-for-large">de</span></a>
+
+        
+    </li>
+
+    </ul>
+
+        </template>
+    </v-toggle>
+</nav>
+
+    
+
+</div>
+
+                </div>
+            </div>
+        </div>
+        <div class="cmp-header__mainbar grid-container fluid" :class="{'force-burger-menu': spHeader.forceMobileNavigation}">
+            <div class="flex-container align-justify align-middle">
+                <div class="cmp-header__logo">
+                    <div class="cmp-badgebutton-container is-cmp-container">
+<div id="badgebutton-6c40183486" data-cmp-data-layer="{&#34;field_id&#34;:&#34;badgebutton-6c40183486&#34;,&#34;field_type&#34;:&#34;badge&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" class="cmp-badgebutton cmp-badgebutton--logo" itemscope itemtype="http://schema.org/ImageObject">
+    <a class="cmp-badgebutton__link" data-rdl-data="{&#34;field_id&#34;:&#34;badgebutton-6c40183486&#34;,&#34;field_type&#34;:&#34;badge&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen.html">
+        <img src="/content/dam/rbi/common/logos/Raiffeisen%20Bank%20International.svg" loading="lazy" class="cmp-badgebutton__image" alt="Logo Raiffeisen Bank International"/>
+    </a>
+</div>
+
+    
+
+</div>
+
+                </div>
+                <div class="cmp-header__main-nav flex-child-auto align-self-bottom show-for-xlarge">
+                    <div class="cmp-mainnavigation-container is-cmp-container">
+
+    
+<nav class="cmp-mainnavigation cmp-mainnavigation cmp-mainnavigation--desktop cmp-mainnavigation--multilevel cmp-mainnavigation-multilevel" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="cmp-mainnavigation__group">
+        
+        <li class="cmp-mainnavigation__item ">
+            
+            <v-toggle :open="spHeader.isDropdownMenuOpened('megaNav0')" :close-on-escape="true" :close-on-click-away="true" v-on:update="spHeader.dropdownMenuUpdated($event, 'megaNav0')" :classes="{ root: 'cmp-meganavigation', label: 'cmp-meganavigation__trigger cmp-button', content: 'cmp-meganavigation__content' }">
+                <template v-slot:label="spToggle">
+                    <span class="cmp-button__text">RBI Group</span>
+                </template>
+                <template v-slot:default="spToggle">
+                    <div class="grid-container">
+                        <header class="cmp-meganavigation__header">
+                            <strong class="cmp-meganavigation__header-title false">
+                                RBI Group
+                                
+                            </strong>
+                            <button class="cmp-meganavigation__close icon-Close" aria-label="Navigation schließen" v-on:click="spToggle.closeContent(true)">
+                            </button>
+                        </header>
+                        <div class="cmp-meganavigation__list">
+                            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-0">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-2665ec2e8b" data-rdl-data="{&#34;button_text&#34;:&#34;Über uns&#34;,&#34;field_id&#34;:&#34;button-2665ec2e8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Über uns&#34;,&#34;field_id&#34;:&#34;button-2665ec2e8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns.html">
+    
+    
+
+    <span class="cmp-button__text">Über uns</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-8ed5b9e7e5" data-rdl-data="{&#34;button_text&#34;:&#34;Unsere Vision, Mission \u0026 Values&#34;,&#34;field_id&#34;:&#34;button-8ed5b9e7e5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/vision-mission-values.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unsere Vision, Mission \u0026 Values&#34;,&#34;field_id&#34;:&#34;button-8ed5b9e7e5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/vision-mission-values.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/vision-mission-values.html">
+    
+    
+
+    <span class="cmp-button__text">Unsere Vision, Mission &amp; Values</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-419e6200f0" data-rdl-data="{&#34;button_text&#34;:&#34;Raiffeisen Geschichte&#34;,&#34;field_id&#34;:&#34;button-419e6200f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/history.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Raiffeisen Geschichte&#34;,&#34;field_id&#34;:&#34;button-419e6200f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/history.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/geschichte.html">
+    
+    
+
+    <span class="cmp-button__text">Raiffeisen Geschichte</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-541b869f24" data-rdl-data="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-541b869f24&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-541b869f24&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/unser-netzwerk.html">
+    
+    
+
+    <span class="cmp-button__text">Unser Netzwerk</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-c4e2e8a9c9" data-rdl-data="{&#34;button_text&#34;:&#34;RBG-Zentralinstitut &#34;,&#34;field_id&#34;:&#34;button-c4e2e8a9c9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/rbg-central-institute.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;RBG-Zentralinstitut &#34;,&#34;field_id&#34;:&#34;button-c4e2e8a9c9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/rbg-central-institute.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/rgb-zentralinstitut.html">
+    
+    
+
+    <span class="cmp-button__text">RBG-Zentralinstitut </span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-5ad235d3ae" data-rdl-data="{&#34;button_text&#34;:&#34;Innovation&#34;,&#34;field_id&#34;:&#34;button-5ad235d3ae&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/innovation.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Innovation&#34;,&#34;field_id&#34;:&#34;button-5ad235d3ae&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/innovation.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/innovation.html">
+    
+    
+
+    <span class="cmp-button__text">Innovation</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        <span class="cmp-meganavigation__lvl-action ">Leadership and Governance</span>
+        
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-5077997705" data-rdl-data="{&#34;button_text&#34;:&#34;Organe &#34;,&#34;field_id&#34;:&#34;button-5077997705&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/management-board.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Organe &#34;,&#34;field_id&#34;:&#34;button-5077997705&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/management-board.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/organe.html">
+    
+    
+
+    <span class="cmp-button__text">Organe </span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-db2a9b4eb2" data-rdl-data="{&#34;button_text&#34;:&#34;Corporate Governance&#34;,&#34;field_id&#34;:&#34;button-db2a9b4eb2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/governance-remuneration.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Corporate Governance&#34;,&#34;field_id&#34;:&#34;button-db2a9b4eb2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/governance-remuneration.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren/governance.html">
+    
+    
+
+    <span class="cmp-button__text">Corporate Governance</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-6a0be6b5c1" data-rdl-data="{&#34;button_text&#34;:&#34;Compliance&#34;,&#34;field_id&#34;:&#34;button-6a0be6b5c1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Compliance&#34;,&#34;field_id&#34;:&#34;button-6a0be6b5c1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/compliance.html">
+    
+    
+
+    <span class="cmp-button__text">Compliance</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-e6a8a425d2" data-rdl-data="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-e6a8a425d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-e6a8a425d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/responsible-banking.html">
+    
+    
+
+    <span class="cmp-button__text">Responsible Banking</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+
+                        </div>
+                    </div>
+                </template>
+            </v-toggle>
+        </li>
+    
+        
+        <li class="cmp-mainnavigation__item ">
+            
+            <v-toggle :open="spHeader.isDropdownMenuOpened('megaNav1')" :close-on-escape="true" :close-on-click-away="true" v-on:update="spHeader.dropdownMenuUpdated($event, 'megaNav1')" :classes="{ root: 'cmp-meganavigation', label: 'cmp-meganavigation__trigger cmp-button', content: 'cmp-meganavigation__content' }">
+                <template v-slot:label="spToggle">
+                    <span class="cmp-button__text">Nachhaltigkeit &amp; ESG</span>
+                </template>
+                <template v-slot:default="spToggle">
+                    <div class="grid-container">
+                        <header class="cmp-meganavigation__header">
+                            <strong class="cmp-meganavigation__header-title false">
+                                
+                                <span class="cmp-button-container is-cmp-container">
+<a type="button" id="button-1e9b152ba4" data-rdl-data="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-1e9b152ba4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-1e9b152ba4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg.html">
+    
+    
+
+    <span class="cmp-button__text">Nachhaltigkeit &amp; ESG</span>
+</a>
+
+    
+
+</span>
+
+                            </strong>
+                            <button class="cmp-meganavigation__close icon-Close" aria-label="Navigation schließen" v-on:click="spToggle.closeContent(true)">
+                            </button>
+                        </header>
+                        <div class="cmp-meganavigation__list">
+                            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-0">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-352937bf94" data-rdl-data="{&#34;button_text&#34;:&#34;News&#34;,&#34;field_id&#34;:&#34;button-352937bf94&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/news.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;News&#34;,&#34;field_id&#34;:&#34;button-352937bf94&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/news.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/news.html">
+    
+    
+
+    <span class="cmp-button__text">Nachrichten</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-b3181058d5" data-rdl-data="{&#34;button_text&#34;:&#34;Strategie und Governance&#34;,&#34;field_id&#34;:&#34;button-b3181058d5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Strategie und Governance&#34;,&#34;field_id&#34;:&#34;button-b3181058d5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance.html">
+    
+    
+
+    <span class="cmp-button__text">Strategie und Governance</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-dff377f76b" data-rdl-data="{&#34;button_text&#34;:&#34;Dachstrategie&#34;,&#34;field_id&#34;:&#34;button-dff377f76b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/sustainability-strategy-framework.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Dachstrategie&#34;,&#34;field_id&#34;:&#34;button-dff377f76b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/sustainability-strategy-framework.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/dachstrategie.html">
+    
+    
+
+    <span class="cmp-button__text">Dachstrategie</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-203947fd55" data-rdl-data="{&#34;button_text&#34;:&#34;Mission Statement&#34;,&#34;field_id&#34;:&#34;button-203947fd55&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/mission-statement.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Mission Statement&#34;,&#34;field_id&#34;:&#34;button-203947fd55&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/mission-statement.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/mission-statement.html">
+    
+    
+
+    <span class="cmp-button__text">Mission Statement</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-1e0eb32b9d" data-rdl-data="{&#34;button_text&#34;:&#34;Handlungsschwerpunkte&#34;,&#34;field_id&#34;:&#34;button-1e0eb32b9d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/key-areas.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Handlungsschwerpunkte&#34;,&#34;field_id&#34;:&#34;button-1e0eb32b9d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/key-areas.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/schwerpunkte.html">
+    
+    
+
+    <span class="cmp-button__text">Handlungsschwerpunkte</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-64fd95405d" data-rdl-data="{&#34;button_text&#34;:&#34;Leitbild&#34;,&#34;field_id&#34;:&#34;button-64fd95405d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/guiding-principles.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Leitbild&#34;,&#34;field_id&#34;:&#34;button-64fd95405d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/guiding-principles.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/leitbild.html">
+    
+    
+
+    <span class="cmp-button__text">Leitbild</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-2ba0841500" data-rdl-data="{&#34;button_text&#34;:&#34;Sustainable Development Goals&#34;,&#34;field_id&#34;:&#34;button-2ba0841500&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/goals.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Sustainable Development Goals&#34;,&#34;field_id&#34;:&#34;button-2ba0841500&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/goals.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/ziele.html">
+    
+    
+
+    <span class="cmp-button__text">Sustainable Development Goals</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-1fb9a4aa5f" data-rdl-data="{&#34;button_text&#34;:&#34;Stakeholder&#34;,&#34;field_id&#34;:&#34;button-1fb9a4aa5f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/stakeholder-engagement.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Stakeholder&#34;,&#34;field_id&#34;:&#34;button-1fb9a4aa5f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/stakeholder-engagement.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/stakeholder.html">
+    
+    
+
+    <span class="cmp-button__text">Stakeholder</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-968090e1af" data-rdl-data="{&#34;button_text&#34;:&#34;ESG- / Nachhaltigkeitsratings und -indizes&#34;,&#34;field_id&#34;:&#34;button-968090e1af&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/ratings-indices.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;ESG- / Nachhaltigkeitsratings und -indizes&#34;,&#34;field_id&#34;:&#34;button-968090e1af&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/ratings-indices.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/ratings-indizes.html">
+    
+    
+
+    <span class="cmp-button__text">ESG- / Nachhaltigkeitsratings und -indizes</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-e122539e5d" data-rdl-data="{&#34;button_text&#34;:&#34;Nachhaltigkeitsbericht&#34;,&#34;field_id&#34;:&#34;button-e122539e5d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/sustainability-reports.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Nachhaltigkeitsbericht&#34;,&#34;field_id&#34;:&#34;button-e122539e5d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/sustainability-reports.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/nachhaltigkeitsberichte.html">
+    
+    
+
+    <span class="cmp-button__text">Nachhaltigkeitsbericht</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-a7afc41c78" data-rdl-data="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-a7afc41c78&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-a7afc41c78&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/responsible-banking.html">
+    
+    
+
+    <span class="cmp-button__text">Responsible Banking</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-1f76729ba1" data-rdl-data="{&#34;button_text&#34;:&#34;Betriebsökologie&#34;,&#34;field_id&#34;:&#34;button-1f76729ba1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/inhouse-ecology.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Betriebsökologie&#34;,&#34;field_id&#34;:&#34;button-1f76729ba1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/inhouse-ecology.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/betriebsoekologie.html">
+    
+    
+
+    <span class="cmp-button__text">Betriebsökologie</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-98674ef498" data-rdl-data="{&#34;button_text&#34;:&#34;Unser gesellschaftlicher Beitrag&#34;,&#34;field_id&#34;:&#34;button-98674ef498&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/community-investment.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unser gesellschaftlicher Beitrag&#34;,&#34;field_id&#34;:&#34;button-98674ef498&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/community-investment.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/unser-beitrag.html">
+    
+    
+
+    <span class="cmp-button__text">Unser gesellschaftlicher Beitrag</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-3432098d11" data-rdl-data="{&#34;button_text&#34;:&#34;Diversität und Inklusion&#34;,&#34;field_id&#34;:&#34;button-3432098d11&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/diversity-inclusion.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Diversität und Inklusion&#34;,&#34;field_id&#34;:&#34;button-3432098d11&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/diversity-inclusion.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/diversitaet-inklusion.html">
+    
+    
+
+    <span class="cmp-button__text">Diversität und Inklusion</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-1be25b64ca" data-rdl-data="{&#34;button_text&#34;:&#34;ESG-Aktivitäten in unserem Netzwerk&#34;,&#34;field_id&#34;:&#34;button-1be25b64ca&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/esg-activities-network.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;ESG-Aktivitäten in unserem Netzwerk&#34;,&#34;field_id&#34;:&#34;button-1be25b64ca&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/esg-activities-network.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/esg-aktivitaeten.html">
+    
+    
+
+    <span class="cmp-button__text">ESG-Aktivitäten in unserem Netzwerk</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+                        </div>
+                    </div>
+                </template>
+            </v-toggle>
+        </li>
+    
+        
+        <li class="cmp-mainnavigation__item ">
+            
+            <v-toggle :open="spHeader.isDropdownMenuOpened('megaNav2')" :close-on-escape="true" :close-on-click-away="true" v-on:update="spHeader.dropdownMenuUpdated($event, 'megaNav2')" :classes="{ root: 'cmp-meganavigation', label: 'cmp-meganavigation__trigger cmp-button', content: 'cmp-meganavigation__content' }">
+                <template v-slot:label="spToggle">
+                    <span class="cmp-button__text">Karriere</span>
+                </template>
+                <template v-slot:default="spToggle">
+                    <div class="grid-container">
+                        <header class="cmp-meganavigation__header">
+                            <strong class="cmp-meganavigation__header-title false">
+                                
+                                <span class="cmp-button-container is-cmp-container">
+<a type="button" id="button-0b59f61747" data-rdl-data="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-0b59f61747&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-0b59f61747&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere.html">
+    
+    
+
+    <span class="cmp-button__text">Karriere</span>
+</a>
+
+    
+
+</span>
+
+                            </strong>
+                            <button class="cmp-meganavigation__close icon-Close" aria-label="Navigation schließen" v-on:click="spToggle.closeContent(true)">
+                            </button>
+                        </header>
+                        <div class="cmp-meganavigation__list">
+                            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-0">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-a7eefe8bd4" data-rdl-data="{&#34;button_text&#34;:&#34;Aktuelle Jobs&#34;,&#34;field_id&#34;:&#34;button-a7eefe8bd4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Aktuelle Jobs&#34;,&#34;field_id&#34;:&#34;button-a7eefe8bd4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs.html">
+    
+    
+
+    <span class="cmp-button__text">Aktuelle Jobs</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-10a89c6a68" data-rdl-data="{&#34;button_text&#34;:&#34;Bewerbungsprozess&#34;,&#34;field_id&#34;:&#34;button-10a89c6a68&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/application-process.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Bewerbungsprozess&#34;,&#34;field_id&#34;:&#34;button-10a89c6a68&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/application-process.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs/bewerbungsprozess.html">
+    
+    
+
+    <span class="cmp-button__text">Bewerbungsprozess</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-f38505719a" data-rdl-data="{&#34;button_text&#34;:&#34;FAQs&#34;,&#34;field_id&#34;:&#34;button-f38505719a&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/faqs.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;FAQs&#34;,&#34;field_id&#34;:&#34;button-f38505719a&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/faqs.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs/faqs.html">
+    
+    
+
+    <span class="cmp-button__text">FAQs</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-3378479953" data-rdl-data="{&#34;button_text&#34;:&#34;Arbeitgeberin&#34;,&#34;field_id&#34;:&#34;button-3378479953&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Arbeitgeberin&#34;,&#34;field_id&#34;:&#34;button-3378479953&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin.html">
+    
+    
+
+    <span class="cmp-button__text">Arbeitgeberin</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-a2d1f6d1f2" data-rdl-data="{&#34;button_text&#34;:&#34;Benefits&#34;,&#34;field_id&#34;:&#34;button-a2d1f6d1f2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/benefits.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Benefits&#34;,&#34;field_id&#34;:&#34;button-a2d1f6d1f2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/benefits.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/benefits.html">
+    
+    
+
+    <span class="cmp-button__text">Benefits</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-af06e46bfd" data-rdl-data="{&#34;button_text&#34;:&#34;Unsere Unternehmensgruppe&#34;,&#34;field_id&#34;:&#34;button-af06e46bfd&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/our-companies.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unsere Unternehmensgruppe&#34;,&#34;field_id&#34;:&#34;button-af06e46bfd&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/our-companies.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/unternehmensgruppe.html">
+    
+    
+
+    <span class="cmp-button__text">Unsere Unternehmensgruppe</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-43ec4b738e" data-rdl-data="{&#34;button_text&#34;:&#34;Gründe für die RBI &#34;,&#34;field_id&#34;:&#34;button-43ec4b738e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/reasons-for-rbi.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Gründe für die RBI &#34;,&#34;field_id&#34;:&#34;button-43ec4b738e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/reasons-for-rbi.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/gruende-rbi.html">
+    
+    
+
+    <span class="cmp-button__text">Gründe für die RBI </span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-a592ddb125" data-rdl-data="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-a592ddb125&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-a592ddb125&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/kontakt.html">
+    
+    
+
+    <span class="cmp-button__text">Kontaktpersonen</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+        
+        <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-action">
+<a type="button" id="button-4d0cbca5f9" data-rdl-data="{&#34;button_text&#34;:&#34;Menschen&#34;,&#34;field_id&#34;:&#34;button-4d0cbca5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Menschen&#34;,&#34;field_id&#34;:&#34;button-4d0cbca5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen.html">
+    
+    
+
+    <span class="cmp-button__text">Menschen</span>
+</a>
+
+    
+
+</span>
+
+    
+    
+    
+</div>
+            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-1">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-da6e56ef88" data-rdl-data="{&#34;button_text&#34;:&#34;Studierende, Absolvent:innen&#34;,&#34;field_id&#34;:&#34;button-da6e56ef88&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/graduates.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Studierende, Absolvent:innen&#34;,&#34;field_id&#34;:&#34;button-da6e56ef88&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/graduates.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/studierende-absolventen.html">
+    
+    
+
+    <span class="cmp-button__text">Studierende, Absolvent:innen</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-fbdf93e4d2" data-rdl-data="{&#34;button_text&#34;:&#34;Berufsfelder&#34;,&#34;field_id&#34;:&#34;button-fbdf93e4d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/professional-areas.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Berufsfelder&#34;,&#34;field_id&#34;:&#34;button-fbdf93e4d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/professional-areas.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/berufsfelder.html">
+    
+    
+
+    <span class="cmp-button__text">Berufsfelder</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-1">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-f2f0dcb25f" data-rdl-data="{&#34;button_text&#34;:&#34;Entwicklungsmöglichkeiten &#34;,&#34;field_id&#34;:&#34;button-f2f0dcb25f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/your-development.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Entwicklungsmöglichkeiten &#34;,&#34;field_id&#34;:&#34;button-f2f0dcb25f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/your-development.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/entwicklung.html">
+    
+    
+
+    <span class="cmp-button__text">Entwicklungsmöglichkeiten </span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+
+                        </div>
+                    </div>
+                </template>
+            </v-toggle>
+        </li>
+    
+        
+        <li class="cmp-mainnavigation__item ">
+            
+            <v-toggle :open="spHeader.isDropdownMenuOpened('megaNav3')" :close-on-escape="true" :close-on-click-away="true" v-on:update="spHeader.dropdownMenuUpdated($event, 'megaNav3')" :classes="{ root: 'cmp-meganavigation', label: 'cmp-meganavigation__trigger cmp-button', content: 'cmp-meganavigation__content' }">
+                <template v-slot:label="spToggle">
+                    <span class="cmp-button__text">Media Hub</span>
+                </template>
+                <template v-slot:default="spToggle">
+                    <div class="grid-container">
+                        <header class="cmp-meganavigation__header">
+                            <strong class="cmp-meganavigation__header-title false">
+                                Media Hub
+                                
+                            </strong>
+                            <button class="cmp-meganavigation__close icon-Close" aria-label="Navigation schließen" v-on:click="spToggle.closeContent(true)">
+                            </button>
+                        </header>
+                        <div class="cmp-meganavigation__list">
+                            
+    <ul class="cmp-meganavigation__lvl-list cmp-meganavigation__lvl-list--depth-0">
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-0ca4150cf1" data-rdl-data="{&#34;button_text&#34;:&#34;Presseaussendungen&#34;,&#34;field_id&#34;:&#34;button-0ca4150cf1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/press-releases.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Presseaussendungen&#34;,&#34;field_id&#34;:&#34;button-0ca4150cf1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/press-releases.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/presseaussendungen.html">
+    
+    
+
+    <span class="cmp-button__text">Presseaussendungen</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-39e73c5c93" data-rdl-data="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-39e73c5c93&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-39e73c5c93&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/kontakt.html">
+    
+    
+
+    <span class="cmp-button__text">Kontaktpersonen</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-meganavigation__lvl cmp-meganavigation__lvl--depth-0">
+            <div class="cmp-meganavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-meganavigation__lvl-link">
+<a type="button" id="button-752a740c4c" data-rdl-data="{&#34;button_text&#34;:&#34;Media Kit&#34;,&#34;field_id&#34;:&#34;button-752a740c4c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Media Kit&#34;,&#34;field_id&#34;:&#34;button-752a740c4c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/media-kit.html">
+    
+    
+
+    <span class="cmp-button__text">Media Kit</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+                        </div>
+                    </div>
+                </template>
+            </v-toggle>
+        </li>
+    
+        
+        <li class="cmp-mainnavigation__item ">
+            <span class="cmp-button-container is-cmp-container cmp-mainnavigation__item-link">
+<a type="button" id="button-e79fe41c8b" data-rdl-data="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-e79fe41c8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-e79fe41c8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" href="https://bank.rbinternational.com/de/insights/blog.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Insights Blog</span>
+</a>
+
+    
+
+</span>
+
+            
+        </li>
+    </ul>
+</nav>
+
+    
+
+
+
+
+
+
+
+
+    
+
+</div>
+
+                </div>
+                <div class="cmp-header__secondary-nav flex-child-shrink">
+                    <div class="cmp-buttonbar-container is-cmp-container cmp-buttonbar--align-right cmp-buttonbar--icon-only-mobile">
+
+<div class="cmp-buttonbar" data-placeholder-text="false">
+    <div class="parsys cmp-buttonbar__grid">
+
+
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--primary">
+<a type="button" id="button-03ba33a8b6" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--primary&#34;,&#34;button_text&#34;:&#34;Plattform Logins&#34;,&#34;field_id&#34;:&#34;button-03ba33a8b6&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/login.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   cmp-button--has-icon" data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--primary&#34;,&#34;button_text&#34;:&#34;Plattform Logins&#34;,&#34;field_id&#34;:&#34;button-03ba33a8b6&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/login.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/login.html">
+    
+    <span class="icon icon-Secure" aria-hidden="true"></span>
+
+    <span class="cmp-button__text">Plattform Logins</span>
+</a>
+
+    
+
+</span>
+
+
+</div>
+
+</div>
+</div>
+
+                    <div class="cmp-languagenavigation-container is-cmp-container cmp-languagenavigation--big show-for-small">
+
+
+    
+
+</div>
+
+
+                    <div class="cmp-header__burger burger hide-for-xlarge">
+                        <v-drawer v-cloak right no-scroll width="100%" max-width="25rem" transition="slide-right" :classes="{ root: '', content: 'burger__content' }" :showing="spHeader.isDropdownMenuOpened('burger')" v-on:update="spHeader.dropdownMenuUpdated($event, 'burger')">
+                            <template v-slot:toggle="spToggle">
+                                <button class="burger__trigger" v-bind="spToggle.bind" v-on="spToggle.on">
+                                <span class="burger__trigger-icon" :class="spToggle.bind['aria-expanded'] === 'true' ? 'icon-Close' : 'icon-Menu'" :aria-label="spToggle.bind['aria-expanded'] === 'true' ? 'Navigation schließen' : 'Navigation öffnen'"></span>
+                                </button>
+                            </template>
+                            <template v-slot:default="spToggle">
+                                <div class="burger__content-inner" v-on:click="spHeader.onDropdownMenuClicked($event, 'burger')">
+                                    
+                                    <div class="cmp-mainnavigation-container is-cmp-container">
+
+    
+<nav class="cmp-mainnavigation cmp-mainnavigation cmp-mainnavigation--mobile" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="cmp-mainnavigation__group cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-base">
+        <li class="cmp-mainnavigation__item  cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-base">
+            
+            <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                <template v-slot:label="spToggle">
+                    <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">RBI Group</span>
+    
+    
+</div>
+                    <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                </template>
+                <template v-slot:default="spToggle">
+                    
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-0">
+        
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Über uns</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-2665ec2e8b" data-rdl-data="{&#34;button_text&#34;:&#34;Über uns&#34;,&#34;field_id&#34;:&#34;button-2665ec2e8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Über uns&#34;,&#34;field_id&#34;:&#34;button-2665ec2e8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns.html">
+    
+    
+
+    <span class="cmp-button__text">Über uns</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-8ed5b9e7e5" data-rdl-data="{&#34;button_text&#34;:&#34;Unsere Vision, Mission \u0026 Values&#34;,&#34;field_id&#34;:&#34;button-8ed5b9e7e5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/vision-mission-values.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unsere Vision, Mission \u0026 Values&#34;,&#34;field_id&#34;:&#34;button-8ed5b9e7e5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/vision-mission-values.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/vision-mission-values.html">
+    
+    
+
+    <span class="cmp-button__text">Unsere Vision, Mission &amp; Values</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-419e6200f0" data-rdl-data="{&#34;button_text&#34;:&#34;Raiffeisen Geschichte&#34;,&#34;field_id&#34;:&#34;button-419e6200f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/history.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Raiffeisen Geschichte&#34;,&#34;field_id&#34;:&#34;button-419e6200f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/history.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/geschichte.html">
+    
+    
+
+    <span class="cmp-button__text">Raiffeisen Geschichte</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-541b869f24" data-rdl-data="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-541b869f24&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-541b869f24&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/unser-netzwerk.html">
+    
+    
+
+    <span class="cmp-button__text">Unser Netzwerk</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-c4e2e8a9c9" data-rdl-data="{&#34;button_text&#34;:&#34;RBG-Zentralinstitut &#34;,&#34;field_id&#34;:&#34;button-c4e2e8a9c9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/rbg-central-institute.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;RBG-Zentralinstitut &#34;,&#34;field_id&#34;:&#34;button-c4e2e8a9c9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/rbg-central-institute.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/rgb-zentralinstitut.html">
+    
+    
+
+    <span class="cmp-button__text">RBG-Zentralinstitut </span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-5ad235d3ae" data-rdl-data="{&#34;button_text&#34;:&#34;Innovation&#34;,&#34;field_id&#34;:&#34;button-5ad235d3ae&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/innovation.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Innovation&#34;,&#34;field_id&#34;:&#34;button-5ad235d3ae&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/innovation.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/innovation.html">
+    
+    
+
+    <span class="cmp-button__text">Innovation</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Leadership and Governance</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-5077997705" data-rdl-data="{&#34;button_text&#34;:&#34;Organe &#34;,&#34;field_id&#34;:&#34;button-5077997705&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/management-board.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Organe &#34;,&#34;field_id&#34;:&#34;button-5077997705&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/management-board.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/organe.html">
+    
+    
+
+    <span class="cmp-button__text">Organe </span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-db2a9b4eb2" data-rdl-data="{&#34;button_text&#34;:&#34;Corporate Governance&#34;,&#34;field_id&#34;:&#34;button-db2a9b4eb2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/governance-remuneration.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Corporate Governance&#34;,&#34;field_id&#34;:&#34;button-db2a9b4eb2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/governance-remuneration.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren/governance.html">
+    
+    
+
+    <span class="cmp-button__text">Corporate Governance</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-6a0be6b5c1" data-rdl-data="{&#34;button_text&#34;:&#34;Compliance&#34;,&#34;field_id&#34;:&#34;button-6a0be6b5c1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Compliance&#34;,&#34;field_id&#34;:&#34;button-6a0be6b5c1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/compliance.html">
+    
+    
+
+    <span class="cmp-button__text">Compliance</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-e6a8a425d2" data-rdl-data="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-e6a8a425d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-e6a8a425d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/responsible-banking.html">
+    
+    
+
+    <span class="cmp-button__text">Responsible Banking</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+    </ul>
+
+                </template>
+            </v-toggle>
+        </li>
+    
+        <li class="cmp-mainnavigation__item  cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-base">
+            
+            <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                <template v-slot:label="spToggle">
+                    <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Nachhaltigkeit &amp; ESG</span>
+    
+    
+</div>
+                    <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                </template>
+                <template v-slot:default="spToggle">
+                    
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-0">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-1e9b152ba4" data-rdl-data="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-1e9b152ba4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-1e9b152ba4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg.html">
+    
+    
+
+    <span class="cmp-button__text">Nachhaltigkeit &amp; ESG</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">News</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-352937bf94" data-rdl-data="{&#34;button_text&#34;:&#34;News&#34;,&#34;field_id&#34;:&#34;button-352937bf94&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/news.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;News&#34;,&#34;field_id&#34;:&#34;button-352937bf94&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/news.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/news.html">
+    
+    
+
+    <span class="cmp-button__text">Nachrichten</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Strategie und Governance</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-b3181058d5" data-rdl-data="{&#34;button_text&#34;:&#34;Strategie und Governance&#34;,&#34;field_id&#34;:&#34;button-b3181058d5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Strategie und Governance&#34;,&#34;field_id&#34;:&#34;button-b3181058d5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance.html">
+    
+    
+
+    <span class="cmp-button__text">Strategie und Governance</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-dff377f76b" data-rdl-data="{&#34;button_text&#34;:&#34;Dachstrategie&#34;,&#34;field_id&#34;:&#34;button-dff377f76b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/sustainability-strategy-framework.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Dachstrategie&#34;,&#34;field_id&#34;:&#34;button-dff377f76b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/sustainability-strategy-framework.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/dachstrategie.html">
+    
+    
+
+    <span class="cmp-button__text">Dachstrategie</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-203947fd55" data-rdl-data="{&#34;button_text&#34;:&#34;Mission Statement&#34;,&#34;field_id&#34;:&#34;button-203947fd55&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/mission-statement.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Mission Statement&#34;,&#34;field_id&#34;:&#34;button-203947fd55&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/mission-statement.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/mission-statement.html">
+    
+    
+
+    <span class="cmp-button__text">Mission Statement</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-1e0eb32b9d" data-rdl-data="{&#34;button_text&#34;:&#34;Handlungsschwerpunkte&#34;,&#34;field_id&#34;:&#34;button-1e0eb32b9d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/key-areas.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Handlungsschwerpunkte&#34;,&#34;field_id&#34;:&#34;button-1e0eb32b9d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/key-areas.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/schwerpunkte.html">
+    
+    
+
+    <span class="cmp-button__text">Handlungsschwerpunkte</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-64fd95405d" data-rdl-data="{&#34;button_text&#34;:&#34;Leitbild&#34;,&#34;field_id&#34;:&#34;button-64fd95405d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/guiding-principles.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Leitbild&#34;,&#34;field_id&#34;:&#34;button-64fd95405d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/guiding-principles.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/leitbild.html">
+    
+    
+
+    <span class="cmp-button__text">Leitbild</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-2ba0841500" data-rdl-data="{&#34;button_text&#34;:&#34;Sustainable Development Goals&#34;,&#34;field_id&#34;:&#34;button-2ba0841500&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/goals.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Sustainable Development Goals&#34;,&#34;field_id&#34;:&#34;button-2ba0841500&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/goals.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/ziele.html">
+    
+    
+
+    <span class="cmp-button__text">Sustainable Development Goals</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-1fb9a4aa5f" data-rdl-data="{&#34;button_text&#34;:&#34;Stakeholder&#34;,&#34;field_id&#34;:&#34;button-1fb9a4aa5f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/stakeholder-engagement.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Stakeholder&#34;,&#34;field_id&#34;:&#34;button-1fb9a4aa5f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/strategy-governance/stakeholder-engagement.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/strategie-governance/stakeholder.html">
+    
+    
+
+    <span class="cmp-button__text">Stakeholder</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-968090e1af" data-rdl-data="{&#34;button_text&#34;:&#34;ESG- / Nachhaltigkeitsratings und -indizes&#34;,&#34;field_id&#34;:&#34;button-968090e1af&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/ratings-indices.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;ESG- / Nachhaltigkeitsratings und -indizes&#34;,&#34;field_id&#34;:&#34;button-968090e1af&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/ratings-indices.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/ratings-indizes.html">
+    
+    
+
+    <span class="cmp-button__text">ESG- / Nachhaltigkeitsratings und -indizes</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-e122539e5d" data-rdl-data="{&#34;button_text&#34;:&#34;Nachhaltigkeitsbericht&#34;,&#34;field_id&#34;:&#34;button-e122539e5d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/sustainability-reports.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Nachhaltigkeitsbericht&#34;,&#34;field_id&#34;:&#34;button-e122539e5d&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/sustainability-reports.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/nachhaltigkeitsberichte.html">
+    
+    
+
+    <span class="cmp-button__text">Nachhaltigkeitsbericht</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-a7afc41c78" data-rdl-data="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-a7afc41c78&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Responsible Banking&#34;,&#34;field_id&#34;:&#34;button-a7afc41c78&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/responsible-banking.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/responsible-banking.html">
+    
+    
+
+    <span class="cmp-button__text">Responsible Banking</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-1f76729ba1" data-rdl-data="{&#34;button_text&#34;:&#34;Betriebsökologie&#34;,&#34;field_id&#34;:&#34;button-1f76729ba1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/inhouse-ecology.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Betriebsökologie&#34;,&#34;field_id&#34;:&#34;button-1f76729ba1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/inhouse-ecology.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/betriebsoekologie.html">
+    
+    
+
+    <span class="cmp-button__text">Betriebsökologie</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Unser gesellschaftlicher Beitrag</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-98674ef498" data-rdl-data="{&#34;button_text&#34;:&#34;Unser gesellschaftlicher Beitrag&#34;,&#34;field_id&#34;:&#34;button-98674ef498&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/community-investment.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unser gesellschaftlicher Beitrag&#34;,&#34;field_id&#34;:&#34;button-98674ef498&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/community-investment.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/unser-beitrag.html">
+    
+    
+
+    <span class="cmp-button__text">Unser gesellschaftlicher Beitrag</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-3432098d11" data-rdl-data="{&#34;button_text&#34;:&#34;Diversität und Inklusion&#34;,&#34;field_id&#34;:&#34;button-3432098d11&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/diversity-inclusion.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Diversität und Inklusion&#34;,&#34;field_id&#34;:&#34;button-3432098d11&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/diversity-inclusion.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/diversitaet-inklusion.html">
+    
+    
+
+    <span class="cmp-button__text">Diversität und Inklusion</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-1be25b64ca" data-rdl-data="{&#34;button_text&#34;:&#34;ESG-Aktivitäten in unserem Netzwerk&#34;,&#34;field_id&#34;:&#34;button-1be25b64ca&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/esg-activities-network.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;ESG-Aktivitäten in unserem Netzwerk&#34;,&#34;field_id&#34;:&#34;button-1be25b64ca&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg/esg-activities-network.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg/esg-aktivitaeten.html">
+    
+    
+
+    <span class="cmp-button__text">ESG-Aktivitäten in unserem Netzwerk</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                </template>
+            </v-toggle>
+        </li>
+    
+        <li class="cmp-mainnavigation__item  cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-base">
+            
+            <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                <template v-slot:label="spToggle">
+                    <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Karriere</span>
+    
+    
+</div>
+                    <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                </template>
+                <template v-slot:default="spToggle">
+                    
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-0">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-0b59f61747" data-rdl-data="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-0b59f61747&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-0b59f61747&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere.html">
+    
+    
+
+    <span class="cmp-button__text">Karriere</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Aktuelle Jobs</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-a7eefe8bd4" data-rdl-data="{&#34;button_text&#34;:&#34;Aktuelle Jobs&#34;,&#34;field_id&#34;:&#34;button-a7eefe8bd4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Aktuelle Jobs&#34;,&#34;field_id&#34;:&#34;button-a7eefe8bd4&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs.html">
+    
+    
+
+    <span class="cmp-button__text">Aktuelle Jobs</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-10a89c6a68" data-rdl-data="{&#34;button_text&#34;:&#34;Bewerbungsprozess&#34;,&#34;field_id&#34;:&#34;button-10a89c6a68&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/application-process.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Bewerbungsprozess&#34;,&#34;field_id&#34;:&#34;button-10a89c6a68&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/application-process.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs/bewerbungsprozess.html">
+    
+    
+
+    <span class="cmp-button__text">Bewerbungsprozess</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-f38505719a" data-rdl-data="{&#34;button_text&#34;:&#34;FAQs&#34;,&#34;field_id&#34;:&#34;button-f38505719a&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/faqs.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;FAQs&#34;,&#34;field_id&#34;:&#34;button-f38505719a&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/current-jobs/faqs.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/aktuelle-jobs/faqs.html">
+    
+    
+
+    <span class="cmp-button__text">FAQs</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Arbeitgeberin</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-3378479953" data-rdl-data="{&#34;button_text&#34;:&#34;Arbeitgeberin&#34;,&#34;field_id&#34;:&#34;button-3378479953&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Arbeitgeberin&#34;,&#34;field_id&#34;:&#34;button-3378479953&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin.html">
+    
+    
+
+    <span class="cmp-button__text">Arbeitgeberin</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-a2d1f6d1f2" data-rdl-data="{&#34;button_text&#34;:&#34;Benefits&#34;,&#34;field_id&#34;:&#34;button-a2d1f6d1f2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/benefits.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Benefits&#34;,&#34;field_id&#34;:&#34;button-a2d1f6d1f2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/benefits.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/benefits.html">
+    
+    
+
+    <span class="cmp-button__text">Benefits</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-af06e46bfd" data-rdl-data="{&#34;button_text&#34;:&#34;Unsere Unternehmensgruppe&#34;,&#34;field_id&#34;:&#34;button-af06e46bfd&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/our-companies.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unsere Unternehmensgruppe&#34;,&#34;field_id&#34;:&#34;button-af06e46bfd&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/our-companies.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/unternehmensgruppe.html">
+    
+    
+
+    <span class="cmp-button__text">Unsere Unternehmensgruppe</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-43ec4b738e" data-rdl-data="{&#34;button_text&#34;:&#34;Gründe für die RBI &#34;,&#34;field_id&#34;:&#34;button-43ec4b738e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/reasons-for-rbi.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Gründe für die RBI &#34;,&#34;field_id&#34;:&#34;button-43ec4b738e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/reasons-for-rbi.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/gruende-rbi.html">
+    
+    
+
+    <span class="cmp-button__text">Gründe für die RBI </span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-a592ddb125" data-rdl-data="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-a592ddb125&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-a592ddb125&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employer/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/arbeitgeberin/kontakt.html">
+    
+    
+
+    <span class="cmp-button__text">Kontaktpersonen</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                
+                <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                    <template v-slot:label="spToggle">
+                        <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Menschen</span>
+    
+    
+</div>
+                        <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                    </template>
+                    <template v-slot:default="spToggle">
+                        
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-1">
+        <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+            
+            <div class="cmp-mainnavigation__lvl-item">
+                <span class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-4d0cbca5f9" data-rdl-data="{&#34;button_text&#34;:&#34;Menschen&#34;,&#34;field_id&#34;:&#34;button-4d0cbca5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Menschen&#34;,&#34;field_id&#34;:&#34;button-4d0cbca5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen.html">
+    
+    
+
+    <span class="cmp-button__text">Menschen</span>
+</a>
+
+    
+
+</span>
+
+            </div>
+        </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-da6e56ef88" data-rdl-data="{&#34;button_text&#34;:&#34;Studierende, Absolvent:innen&#34;,&#34;field_id&#34;:&#34;button-da6e56ef88&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/graduates.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Studierende, Absolvent:innen&#34;,&#34;field_id&#34;:&#34;button-da6e56ef88&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/graduates.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/studierende-absolventen.html">
+    
+    
+
+    <span class="cmp-button__text">Studierende, Absolvent:innen</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-fbdf93e4d2" data-rdl-data="{&#34;button_text&#34;:&#34;Berufsfelder&#34;,&#34;field_id&#34;:&#34;button-fbdf93e4d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/professional-areas.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Berufsfelder&#34;,&#34;field_id&#34;:&#34;button-fbdf93e4d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/professional-areas.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/berufsfelder.html">
+    
+    
+
+    <span class="cmp-button__text">Berufsfelder</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-1">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-f2f0dcb25f" data-rdl-data="{&#34;button_text&#34;:&#34;Entwicklungsmöglichkeiten &#34;,&#34;field_id&#34;:&#34;button-f2f0dcb25f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/your-development.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Entwicklungsmöglichkeiten &#34;,&#34;field_id&#34;:&#34;button-f2f0dcb25f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee/your-development.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen/entwicklung.html">
+    
+    
+
+    <span class="cmp-button__text">Entwicklungsmöglichkeiten </span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                    </template>
+                </v-toggle>
+            </li>
+        
+    </ul>
+
+                </template>
+            </v-toggle>
+        </li>
+    
+        <li class="cmp-mainnavigation__item  cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-base">
+            
+            <v-toggle :classes="{ root: '', label: 'cmp-button', content: '' }" :open="false">
+                <template v-slot:label="spToggle">
+                    <div class="cmp-mainnavigation__lvl-item">
+    
+    <span class="cmp-mainnavigation__lvl-action ">Media Hub</span>
+    
+    
+</div>
+                    <span class="icon icon-Arrow-Down-Expand" aria-hidden="true"></span>
+                </template>
+                <template v-slot:default="spToggle">
+                    
+    <ul class="cmp-mainnavigation__lvl-list cmp-mainnavigation__lvl-list--depth-0">
+        
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-0ca4150cf1" data-rdl-data="{&#34;button_text&#34;:&#34;Presseaussendungen&#34;,&#34;field_id&#34;:&#34;button-0ca4150cf1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/press-releases.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Presseaussendungen&#34;,&#34;field_id&#34;:&#34;button-0ca4150cf1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/press-releases.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/presseaussendungen.html">
+    
+    
+
+    <span class="cmp-button__text">Presseaussendungen</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-39e73c5c93" data-rdl-data="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-39e73c5c93&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Kontaktpersonen&#34;,&#34;field_id&#34;:&#34;button-39e73c5c93&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/kontakt.html">
+    
+    
+
+    <span class="cmp-button__text">Kontaktpersonen</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+            <li class="cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-0">
+                <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-752a740c4c" data-rdl-data="{&#34;button_text&#34;:&#34;Media Kit&#34;,&#34;field_id&#34;:&#34;button-752a740c4c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Media Kit&#34;,&#34;field_id&#34;:&#34;button-752a740c4c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/media-kit.html">
+    
+    
+
+    <span class="cmp-button__text">Media Kit</span>
+</a>
+
+    
+
+</div>
+
+</div>
+                
+            </li>
+        
+    </ul>
+
+                </template>
+            </v-toggle>
+        </li>
+    
+        <li class="cmp-mainnavigation__item  cmp-mainnavigation__lvl cmp-mainnavigation__lvl--depth-base">
+            <div class="cmp-mainnavigation__lvl-item">
+    
+    
+    
+    <div class="cmp-button-container is-cmp-container cmp-mainnavigation__lvl-link">
+<a type="button" id="button-e79fe41c8b" data-rdl-data="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-e79fe41c8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-e79fe41c8b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" href="https://bank.rbinternational.com/de/insights/blog.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Insights Blog</span>
+</a>
+
+    
+
+</div>
+
+</div>
+            
+        </li>
+    </ul>
+</nav>
+
+
+
+
+
+
+
+    
+
+</div>
+
+                                    <div class="cmp-languagenavigation-container is-cmp-container hide-for-small cmp-languagenavigation--list">
+
+
+    
+
+</div>
+
+                                </div>
+                            </template>
+                        </v-drawer>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </v-header>
+</div>
+</div>
+
+    
+</header>
+<main class="cmp-container-container is-cmp-container">
+
+    
+    
+    
+    <div id="container-d0182b90f7" class="cmp-container">
+        
+        <div class="ghost">
+
+</div>
+<div class="ghost">
+
+</div>
+<div class="cmp-grid-container is-cmp-container">
+<div class="cmp-grid  cmp-grid--half">
+<div class="grid-x grid-margin-x">
+    <div class="cell medium-6 cell--align-left">
+        
+
+
+
+
+    
+    
+    <div class="cmp-image-container is-cmp-container">
+<div data-cmp-is="image" data-cmp-filereference="/content/dam/rbi/apollo/common/Apollo-01@3x.jpg" id="image-be4801c027" class="cmp-image cmp-image--transformation-rbifw" itemscope itemtype="http://schema.org/ImageObject">
+    
+        
+            <picture class="cmp-image__picture" style="--imgRatio: 50.26%;--imgRatio-sm: 50.26%;--imgRatio-md: 50.26%;--imgRatio-lg: 50.26%;--imgRatio-xl: 50.26%;--imgRatio-xxl: 50.26%;">
+                
+    <source media="(min-width: 1600px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwhd.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwhd2x.jpg 2x"/>
+
+                
+    <source media="(min-width: 1200px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifw.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifw2x.jpg 2x"/>
+
+                
+    <source media="(min-width: 980px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwtablan.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwtablan2x.jpg 2x"/>
+
+                
+    <source media="(min-width: 768px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwtab.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwtab2x.jpg 2x"/>
+
+                
+    <source media="(min-width: 480px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwmoblan.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwmoblan2x.jpg 2x"/>
+
+                
+    <source media="(min-width: 0px)" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwmob.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifwmob2x.jpg 2x"/>
+
+                
+    <img alt="man who lost his way" src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-src="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifw.jpg" data-srcset="/content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifw.jpg 1x, /content/dam/rbi/apollo/common/Apollo-01%403x.jpg.transform.rbifw2x.jpg 2x" data-sizes="auto" class="cmp-image__image lazyload" itemprop="contentUrl"/>
+
+            </picture>
+        
+        
+        
+    
+</div>
+
+    
+
+</div>
+
+
+
+    </div>
+    <div class="cell medium-6 cell--align-left">
+        
+
+
+
+
+    
+    
+    <div class="cmp-title-container is-cmp-container">
+<div id="title-ec3f346d3b" class="cmp-title">
+    <h2 class="cmp-title__text">
+        
+        
+        
+            Seite nicht gefunden
+        
+    </h2>
+</div>
+
+    
+
+</div>
+
+
+    
+    
+    <div class="cmp-text-container is-cmp-container">
+<div id="text-53cb5a5aa2" class="cmp-text">
+  <p>Die Seite, nach der Sie gesucht haben, können wir leider nicht finden.</p>
+<p> </p>
+
+</div>
+
+    
+
+</div>
+
+
+
+    </div>
+</div></div>
+
+    
+
+</div>
+
+        
+    </div>
+
+</main>
+<footer class="experiencefragment">
+<div class="cmp-experiencefragment cmp-experiencefragment--footer">
+
+<div class="cmp-footer">
+    <nav class="grid-container fluid">
+        <div class="cmp-footernavigation-container is-cmp-container">
+
+    
+<nav class="cmp-footernavigation cmp-footernavigation--multilevel cmp-footernavigation-multilevel" itemscope itemtype="http://schema.org/SiteNavigationElement">
+    <ul class="cmp-footernavigation__group cmp-footernavigation__lvl-list cmp-footernavigation__lvl-list--depth-base">
+        
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-base">
+            <div class="cmp-footernavigation__lvl-item">
+                
+                
+                    Kontaktieren Sie uns
+                    
+                    
+                
+            </div>
+            
+    <ul class="cmp-footernavigation__lvl-list cmp-footernavigation__lvl-list--depth-0">
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-0d68f419d2" data-rdl-data="{&#34;button_text&#34;:&#34;Kontakt&#34;,&#34;field_id&#34;:&#34;button-0d68f419d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/contact.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Kontakt&#34;,&#34;field_id&#34;:&#34;button-0d68f419d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/contact.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/kontakt.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Kontakt</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-base">
+            <div class="cmp-footernavigation__lvl-item">
+                
+                
+                    Informationsportale
+                    
+                    
+                
+            </div>
+            
+    <ul class="cmp-footernavigation__lvl-list cmp-footernavigation__lvl-list--depth-0">
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-1eba15e711" data-rdl-data="{&#34;button_text&#34;:&#34;Investor Relations&#34;,&#34;field_id&#34;:&#34;button-1eba15e711&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Investor Relations&#34;,&#34;field_id&#34;:&#34;button-1eba15e711&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren.html">
+    
+    
+
+    <span class="cmp-button__text">Investor Relations</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-ef317287f5" data-rdl-data="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-ef317287f5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Firmenkunden&#34;,&#34;field_id&#34;:&#34;button-ef317287f5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/corporates.html&#34;,&#34;outbound&#34;:false}" href="/de/corporates.html">
+    
+    
+
+    <span class="cmp-button__text">Firmenkunden</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-a406f367d2" data-rdl-data="{&#34;button_text&#34;:&#34;Institutionelle Kunden&#34;,&#34;field_id&#34;:&#34;button-a406f367d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Institutionelle Kunden&#34;,&#34;field_id&#34;:&#34;button-a406f367d2&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/institutions.html&#34;,&#34;outbound&#34;:false}" href="/de/institutionen.html">
+    
+    
+
+    <span class="cmp-button__text">Institutionelle Kunden</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-576898f129" data-rdl-data="{&#34;button_text&#34;:&#34;Bewerber:innen&#34;,&#34;field_id&#34;:&#34;button-576898f129&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Bewerber:innen&#34;,&#34;field_id&#34;:&#34;button-576898f129&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career/employee.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere/menschen.html">
+    
+    
+
+    <span class="cmp-button__text">Bewerber:innen</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-c119c80e53" data-rdl-data="{&#34;button_text&#34;:&#34;Medien&#34;,&#34;field_id&#34;:&#34;button-c119c80e53&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Medien&#34;,&#34;field_id&#34;:&#34;button-c119c80e53&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/media-hub/media-kit.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/media-hub/media-kit.html">
+    
+    
+
+    <span class="cmp-button__text">Medien</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-base">
+            <div class="cmp-footernavigation__lvl-item">
+                
+                
+                    Über uns
+                    
+                    
+                
+            </div>
+            
+    <ul class="cmp-footernavigation__lvl-list cmp-footernavigation__lvl-list--depth-0">
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-538cbb0014" data-rdl-data="{&#34;button_text&#34;:&#34;RBI Group&#34;,&#34;field_id&#34;:&#34;button-538cbb0014&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;RBI Group&#34;,&#34;field_id&#34;:&#34;button-538cbb0014&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns.html">
+    
+    
+
+    <span class="cmp-button__text">RBI Group</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-e90bf91d47" data-rdl-data="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-e90bf91d47&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Karriere&#34;,&#34;field_id&#34;:&#34;button-e90bf91d47&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/career.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/karriere.html">
+    
+    
+
+    <span class="cmp-button__text">Karriere</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-c8390f13f0" data-rdl-data="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-c8390f13f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Unser Netzwerk&#34;,&#34;field_id&#34;:&#34;button-c8390f13f0&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/about-us/our-network.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/ueber-uns/unser-netzwerk.html">
+    
+    
+
+    <span class="cmp-button__text">Unser Netzwerk</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-f136b72db6" data-rdl-data="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-f136b72db6&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Nachhaltigkeit \u0026 ESG&#34;,&#34;field_id&#34;:&#34;button-f136b72db6&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/sustainability-esg.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/nachhaltigkeit-esg.html">
+    
+    
+
+    <span class="cmp-button__text">Nachhaltigkeit &amp; ESG</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-a2af7063cf" data-rdl-data="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-a2af7063cf&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Insights Blog&#34;,&#34;field_id&#34;:&#34;button-a2af7063cf&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://bank.rbinternational.com/de/insights/blog.html&#34;,&#34;outbound&#34;:true}" href="https://bank.rbinternational.com/de/insights/blog.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Insights Blog</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-9dcb17286b" data-rdl-data="{&#34;button_text&#34;:&#34;Finanzberichte&#34;,&#34;field_id&#34;:&#34;button-9dcb17286b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/results-reports/annual-reports.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Finanzberichte&#34;,&#34;field_id&#34;:&#34;button-9dcb17286b&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/investors/results-reports/annual-reports.html&#34;,&#34;outbound&#34;:false}" href="/de/investoren/berichte/geschaeftsberichte.html">
+    
+    
+
+    <span class="cmp-button__text">Finanzberichte</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    
+        
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-base">
+            <div class="cmp-footernavigation__lvl-item">
+                
+                
+                    Quick Links
+                    
+                    
+                
+            </div>
+            
+    <ul class="cmp-footernavigation__lvl-list cmp-footernavigation__lvl-list--depth-0">
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-a57fa52240" data-rdl-data="{&#34;button_text&#34;:&#34;RBI Blockchain-Hub&#34;,&#34;field_id&#34;:&#34;button-a57fa52240&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://blockchain.rbinternational.com/de/index.html&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;RBI Blockchain-Hub&#34;,&#34;field_id&#34;:&#34;button-a57fa52240&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://blockchain.rbinternational.com/de/index.html&#34;,&#34;outbound&#34;:true}" href="https://blockchain.rbinternational.com/de/index.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">RBI Blockchain-Hub</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-c82bcd53a5" data-rdl-data="{&#34;button_text&#34;:&#34;Stepic CEE Charity&#34;,&#34;field_id&#34;:&#34;button-c82bcd53a5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://www.stepicceecharity.org/de&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Stepic CEE Charity&#34;,&#34;field_id&#34;:&#34;button-c82bcd53a5&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://www.stepicceecharity.org/de&#34;,&#34;outbound&#34;:true}" href="https://www.stepicceecharity.org/de" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Stepic CEE Charity</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-bb04bfcf30" data-rdl-data="{&#34;button_text&#34;:&#34;Spendenportal Impactory&#34;,&#34;field_id&#34;:&#34;button-bb04bfcf30&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://impactory.org/rbi&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Spendenportal Impactory&#34;,&#34;field_id&#34;:&#34;button-bb04bfcf30&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://impactory.org/rbi&#34;,&#34;outbound&#34;:true}" href="https://impactory.org/rbi" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Spendenportal Impactory</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-40fec330db" data-rdl-data="{&#34;button_text&#34;:&#34;API Market Place&#34;,&#34;field_id&#34;:&#34;button-40fec330db&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://api.rbinternational.com/home&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;API Market Place&#34;,&#34;field_id&#34;:&#34;button-40fec330db&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://api.rbinternational.com/home&#34;,&#34;outbound&#34;:true}" href="https://api.rbinternational.com/home" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">API Market Place</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-9538362e0f" data-rdl-data="{&#34;button_text&#34;:&#34;Euroinfokurse (XLSX-File)&#34;,&#34;field_id&#34;:&#34;button-9538362e0f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://files.rbinternational.com/rbi_referencerates.xlsx&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Euroinfokurse (XLSX-File)&#34;,&#34;field_id&#34;:&#34;button-9538362e0f&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://files.rbinternational.com/rbi_referencerates.xlsx&#34;,&#34;outbound&#34;:true}" href="https://files.rbinternational.com/rbi_referencerates.xlsx" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Euroinfokurse (XLSX-File)</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    
+        <li class="cmp-footernavigation__lvl cmp-footernavigation__lvl--depth-0">
+            <div class="cmp-footernavigation__lvl-item">
+    
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-footernavigation__lvl-link cmp-button--link">
+<a type="button" id="button-b4cd5fbfef" data-rdl-data="{&#34;button_text&#34;:&#34;Edelmetalle, Münzen und Barren (XLSX-File)&#34;,&#34;field_id&#34;:&#34;button-b4cd5fbfef&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://files.rbinternational.com/PreciousMetals.xlsx&#34;,&#34;outbound&#34;:true}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Edelmetalle, Münzen und Barren (XLSX-File)&#34;,&#34;field_id&#34;:&#34;button-b4cd5fbfef&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;https://files.rbinternational.com/PreciousMetals.xlsx&#34;,&#34;outbound&#34;:true}" href="https://files.rbinternational.com/PreciousMetals.xlsx" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Edelmetalle, Münzen und Barren (XLSX-File)</span>
+</a>
+
+    
+
+</span>
+
+</div>
+            
+        </li>
+    </ul>
+
+        </li>
+    </ul>
+</nav>
+
+    
+
+
+
+
+
+
+
+
+    
+
+</div>
+
+        <div class="grid-x grid-margin-x align-middle">
+            <div class="cmp-footer__app-nav cell large-shrink">
+                <div class="cmp-buttonbar-container is-cmp-container">
+
+
+</div>
+
+            </div>
+            <div class="cmp-footer__social-nav cell large-shrink">
+                <div class="cmp-buttonbar-container is-cmp-container cmp-buttonbar--align-left">
+
+
+</div>
+
+            </div>
+            <div class="cmp-footer__app-nav cmp-footer__app-nav-right cell large-shrink">
+                <div class="cmp-buttonbar-container is-cmp-container">
+
+
+</div>
+
+            </div>
+        </div>
+        <div class="cmp-separator-container is-cmp-container">
+<div id="separator-0e1a28ac8d" class="cmp-separator">
+    <hr class="cmp-separator__horizontal-rule"/>
+</div></div>
+
+        <div class="grid-x align-middle cmp-footer--large-down-expand cmp-footer__footnote">
+            <div class="cmp-footer__copyright cell">
+                <div class="cmp-text-container is-cmp-container">
+<div id="text-cabc97153e" class="cmp-text">
+  <p>Copyright © 2024 by Raiffeisen Bank International AG<br />
+Am Stadtpark 9<br />
+1030 Vienna<br />
+Member of RBI Group<br />
+</p>
+
+</div>
+
+    
+
+</div>
+
+            </div>
+            <div class="cmp-footer__main-nav cell large-shrink">
+                <div class="cmp-buttonbar-container is-cmp-container cmp-buttonbar--align-left">
+
+<div class="cmp-buttonbar" data-placeholder-text="false">
+    <div class="parsys cmp-buttonbar__grid">
+
+
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-1e45333935" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Impressum&#34;,&#34;field_id&#34;:&#34;button-1e45333935&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/imprint.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Impressum&#34;,&#34;field_id&#34;:&#34;button-1e45333935&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/imprint.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/legal/impressum.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Impressum</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-298cd1f5f9" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Disclaimer&#34;,&#34;field_id&#34;:&#34;button-298cd1f5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/disclaimer.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Disclaimer&#34;,&#34;field_id&#34;:&#34;button-298cd1f5f9&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/disclaimer.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/legal/disclaimer.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Haftungsausschluss</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-c32b110aa1" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Compliance Information&#34;,&#34;field_id&#34;:&#34;button-c32b110aa1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Compliance Information&#34;,&#34;field_id&#34;:&#34;button-c32b110aa1&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/compliance.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Compliance Information</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-a0678ba370" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;AGB | WAG / MFID | Disclosures&#34;,&#34;field_id&#34;:&#34;button-a0678ba370&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/business-terms.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;AGB | WAG / MFID | Disclosures&#34;,&#34;field_id&#34;:&#34;button-a0678ba370&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/business-terms.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/legal/agb.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">AGB | WAG / MFID | Disclosures</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container cmp-button--link">
+<a type="button" id="button-d90e5de6d8" data-rdl-data="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Datenschutz | Verwendung von Cookies&#34;,&#34;field_id&#34;:&#34;button-d90e5de6d8&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/data-protection-cookies.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_class&#34;:&#34;cmp-button--link&#34;,&#34;button_text&#34;:&#34;Datenschutz | Verwendung von Cookies&#34;,&#34;field_id&#34;:&#34;button-d90e5de6d8&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/legal/data-protection-cookies.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/legal/datenschutz.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Datenschutz | Verwendung von Cookies</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container">
+<a type="button" id="button-6a521b932e" data-rdl-data="{&#34;button_text&#34;:&#34;Complaints Management&#34;,&#34;field_id&#34;:&#34;button-6a521b932e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance/management-of-customer-complaints.html&#34;,&#34;outbound&#34;:false}" class="cmp-button   " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Complaints Management&#34;,&#34;field_id&#34;:&#34;button-6a521b932e&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;link_url&#34;:&#34;/content/rbi/ho/ww/global/de/home/rbi-group/leadership-governance/compliance/management-of-customer-complaints.html&#34;,&#34;outbound&#34;:false}" href="/de/raiffeisen/rbi-group/governance/compliance/beschwerden-management.html" target="_blank">
+    
+    
+
+    <span class="cmp-button__text">Complaints Management</span>
+</a>
+
+    
+
+</span>
+
+
+    
+    
+    <span class="cmp-button-container is-cmp-container">
+<button type="button" id="button-8335a6d94c" data-rdl-data="{&#34;button_text&#34;:&#34;Cookies&#34;,&#34;field_id&#34;:&#34;button-8335a6d94c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;outbound&#34;:false}" class="cmp-button ot-sdk-show-settings  " data-cmp-clickable data-cmp-data-layer="{&#34;button_text&#34;:&#34;Cookies&#34;,&#34;field_id&#34;:&#34;button-8335a6d94c&#34;,&#34;field_type&#34;:&#34;button&#34;,&#34;outbound&#34;:false}">
+    
+    
+
+    <span class="cmp-button__text">Cookies</span>
+</button>
+
+    
+
+</span>
+
+
+</div>
+
+</div>
+</div>
+
+            </div>
+                <div class="cmp-footer__contacts cell large-shrink">
+                <div class="cmp-buttonbar-container is-cmp-container cmp-buttonbar--align-left">
+
+
+</div>
+
+            </div>
+        </div>
+    </nav>
+</div>
+</div>
+
+    
+</footer>
+
+        
+    </div>
+
+</div>
+
+
+    
+    
+    
+<script src="/etc.clientlibs/rbi/clientlibs/clientlib-site.lc-3091c027110e21113cc94191f4e4a62c-lc.min.js"></script>
+
+
+
+    
+
+    
+    
+<script src="/etc.clientlibs/rbi/clientlibs/clientlib-base.lc-02e4be0f85874cae188437a468ece831-lc.min.js"></script>
+
+
+
+    
+    
+<script src="/etc.clientlibs/clientlibs/granite/jquery/granite/csrf.lc-652a558c3774088b61b0530c184710d1-lc.min.js"></script>
+
+
+
+
+
+    
+
+    
+
+    
+    
+    
+
+    
+
+
+<div id="modal-placeholder"></div>
+</body>
+</html>

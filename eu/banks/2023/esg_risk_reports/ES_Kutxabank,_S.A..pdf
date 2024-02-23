@@ -1,0 +1,75 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=8" />
+	<title>Kutxabank</title>
+	<link href="/internet/css/kutxabank_mantenimiento.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+	<div id="webcontainer_mant">
+
+			<div id="contenedor_mant">
+            <div class="cabecera">
+<img src="/internet/img/comun/kutxabank/logo_kutxabank.gif" width="134" height="50" alt="logotipo kutxa" />
+	  <h1 class="inv">Pagina de error</h1></div>
+      
+
+				<div lang="eu" class="texto_mant">
+					<h2>Barkatu!</h2>
+					<p class="mediana">400 Errorea</p>
+					<p>Zuk nahi duzun orria ez dago erabiltzeko moduan.</p>
+					<p>Gure hasierako orrialdera joan ahal duzu </p>
+					<ul>
+						<li><a href="http://www.kutxabank.es" hreflang="eu" class="flecha">www.kutxabank.es</a></li>
+					</ul>
+					<p>Zalantzarik izanez gero, deitu hona:</p>
+                    <ul>
+						<li><a href="#" hreflang="eu" class="flecha">900 44 55 66</a></li>
+					</ul>
+				</div>
+
+			
+	
+
+	
+				<div lang="es" class="texto_mant">
+					<h2>¡Lo sentimos!</h2>
+					<p class="mediana">Error 400</p>
+					<p>Disculpa. La página solicitada no está disponible.</p>
+					<p>Puedes dirigirte a nuestra página inicial </p>
+					<ul>
+						<li><a href="http://www.kutxabank.es" hreflang="es" class="flecha">www.kutxabank.es</a></li>
+					</ul>
+					<p>Si tienes alguna duda, puedes llamar al</p>
+                    <ul>
+						<li><a href="#" hreflang="eu" class="flecha">900 44 55 66</a></li>
+					</ul>
+				</div>
+
+
+	
+				<div lang="en" class="texto_mant">
+					<h2>Sorry!</h2>
+					<p class="mediana">Error 400</p>
+					<p>The page requested is not<br/>available.</p>
+					<p>If you wish, you can try the<br/>following:</p>
+					<ul>
+						<li><a href="http://www.kutxabank.es" hreflang="en" class="flecha">www.kutxabank.es</a></li>
+					</ul>
+					<p>If you have any doubts, please call</p>
+                    <ul>
+						<li><a href="#" hreflang="eu" class="flecha">900 44 55 66</a></li>
+					</ul>
+				</div>
+
+
+		
+		
+		</div>
+	</div>
+	
+</body>
+</html>
+
+
